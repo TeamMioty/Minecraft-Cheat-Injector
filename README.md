@@ -1,5 +1,5 @@
-# Projekt wird nicht mehr weitergeführt.
-# Siehe "https://github.com/TeamMioty/Minecraft-Cheat-Injector/wiki/Where-is-the-Injection-Client%3F" für weitere informationen.
+# Project will no longer be continued.
+# See "https://github.com/TeamMioty/Minecraft-Cheat-Injector/wiki/Where-is-the-Injection-Client%3F" for more information.
 
 
 
